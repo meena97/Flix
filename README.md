@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 - Scrolling feature added to Details Page
 - Added Tab feature (Top-Rated, Now Playing, Upcoming)
+- Customized navigation bar
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
